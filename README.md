@@ -1,5 +1,6 @@
 # MiPortafolio
 
+En este repositorio estará mi portafolio desarrollado, donde se mostrará las habilidas, competencias, proyectos en los que me desempeño actualmente
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
 ## Development server
