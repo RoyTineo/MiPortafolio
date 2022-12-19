@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+$color1: #eb455f;
+$color2: #fcffe7;
+$color3: #bad7e9;
+$color4: #2b3467;
+
+* {
+  margin: 0;
+  padding: 0;
+  color: $color2;
+  background: $color4;
+  font-family: 'Hind Madurai', sans-serif;
+}
+
+// html, body{
+//     background: linear-gradient(to top, #000428, #004e92);
+// }

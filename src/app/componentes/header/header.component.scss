@@ -1,0 +1,32 @@
+@import '../../../styles.scss';
+
+.header {
+//   background: #000;
+  display: flex;
+  justify-content: space-between;
+  padding: 1.5rem;
+  align-items: center;
+  align-content: center;
+  box-shadow: 0 0 10px #000;
+}
+.section1 span{
+    color: $color3;
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.listaMenu {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-items: center;
+
+}
+.itemMenu a {
+  text-decoration: none;
+  margin: 1rem;
+  color: $color2;
+  font-family: 'Hind Madurai', sans-serif;
+
+}
